@@ -1,6 +1,6 @@
 # TaskManager
 A simple C++ console app for managing tasks
-<h3>Features</h3>
+<h2>Features</h2>
 <ul>
   <li>Add tasks</li>
   <ul>
@@ -18,3 +18,5 @@ A simple C++ console app for managing tasks
   <li>Show current task</li>
   <li>Show all tasks sorted by highest priority first</li>
 </ul>
+<h3>Reminder</h3>
+Of course it's full of bugs
